@@ -1,5 +1,202 @@
-Hey there, Welcome to my GitHub profile!
+![Visitor Count](https://komarev.com/ghpvc/?username=lolCod3r&label=PROFILE+VIEWS&color=blueviolet)
+<div style="text-align: right">
+<img src="https://jojoee.jojoee.com/api/utcnow?refresh" width="120" height="20">
+</div>
 
-About me: I am Chetan Arora. I am a graduate from BITS Pilani and am currently working as an Application Developer at Citi India. I am a software developer and a Blockchain enthusiast.
+# Hi there, I'm Chetan <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-Internships: I have interned as a software developer at IMIMobile where I worked on a WebRTC based Video WebApp currently used by NHS,UK for doctor-patient communication. This app proved important during COVID for online medical consultation.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=A+Passionate+Learner!;Open+Source+Contributor">
+</p>
+
+----
+## Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+<br>
+<!-- <a href="https://twitter.com/Envoy_1084"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> -->
+<a href="https://www.linkedin.com/in/chetan-arora-a13462134/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<!-- <a href="https://www.reddit.com/user/envoyVC1084"><img src="	https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a> -->
+<a href="mailto:chetan.arora97@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<!-- <a href="https://dev.to/envoy_"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a> -->
+<!-- <a href="https://steamcommunity.com/profiles/76561199077181432/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a> -->
+<!-- <a href="https://open.spotify.com/user/31ojwb23shspr6yxfudndihfrvae"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+ -->
+<br><br>
+----
+
+## I'm a Full-Stack Developer!!
+
+- 🌱 I’m currently working at Payments team Citi.
+- 👯 Contributed to this beautiful product IMIAssist, which is now part of Cisco Webex suite
+- ⚡ Proud Alumni of BITS PILANI 2020 batch
+<br>
+----
+<br>
+<!-- - 🥅  -->
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const Chetan = {
+    pronouns: "He" | "Him",
+    code: ["Java", "Python","Typescript","MySQL"],
+    askMeAbout: ["WebDev", "Tech", "ML/AI","Blockchain"],
+    technologies: {
+        backEnd: {
+            js: ["Node"],
+            java: ["Spring Boot","Apache Camel"]
+        },
+        devOps: ["AWS", "Docker🐳","DigitalOcean"],
+        databases: ["MongoDb", "Oracle", "Redis"],
+        misc: ["Socket.IO", "selenium", "open-cv", "php", "SuiteApp","discord.py"]
+    },
+    currentFocus: "Python",
+    fun: "Two bytes meet.  The first byte asks, 'Are you ill?'
+          The second byte replies, 'No, just feeling a bit off.'"
+};
+```
+<br>
+
+----
+<!-- <br> -->
+
+<!-- ## Now Playing -->
+
+
+<!-- [![Spotify](https://novatorem-envoy-vc.vercel.app/api/spotify)](https://open.spotify.com/user/31ojwb23shspr6yxfudndihfrvae)
+ -->
+<!-- ---- -->
+<!-- <br> -->
+
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
+
+
+
+### Frontend  
+<div align="center">    
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/d3.png" alt="D3.js" height="50" />  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### Backend  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_kafka-icon.svg" alt="Kafka" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" />  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### DevOps  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
+</div>
+
+</td></tr></table>  
+
+
+<!-- 
+<br>
+<br>
+
+----
+
+<br> -->
+<!-- 
+<!-- ## 📕 Latest Blog Posts -->
+<!-- BLOG-POST-LIST:START -->
+<!-- - [How Secure is Blockchain!](https://dev.to/envoy_/how-secure-is-blockchain-4lhm) -->
+<!-- - [Blockchain Key Terms](https://dev.to/envoy_/blockchain-key-terms-m57) -->
+<!-- - [What’s The Blockchain?](https://dev.to/envoy_/whats-the-blockchain-4kik) -->
+<!-- - [Blockchain App Developer Roadmap ✨✨✨](https://dev.to/envoy_/blockchain-app-developer-roadmap-31p5) -->
+<!-- - [Jina - Cloud-Native Neural Search Framework for Any Kind of Data](https://dev.to/envoy_/jina-cloud-native-neural-search-framework-for-any-kind-of-data-56hh) -->
+<!-- BLOG-POST-LIST:END -->
+
+<!-- 
+<br>
+<br>
+
+----
+
+<br> -->
+
+
+<!-- ## 📊 Weekly Development Breakdown -->
+
+<!--START_SECTION:waka-->
+<!-- ```text
+No Activity tracked this Week
+``` -->
+<!--END_SECTION:waka-->
+
+<!-- <br> -->
+<!-- <br> -->
+
+----
+
+<!-- <br> -->
+
+<!--  ## Github Stats-->
+
+<!-- <br> -->
+
+<!-- ![Envoy-VC's GitHub stats](https://readme-stats-envoy-vc.vercel.app/api?username=envoy-vc&show_icons=true&theme=dark)
+ -->
+<!-- <br>
+
+----
+
+<br> -->
+
+<!-- [![Top Languages](https://readme-stats-envoy-vc.vercel.app/api/top-langs/?username=envoy-vc&layout=compact)](https://github.com/Envoy-VC/Envoy-VC)
+ -->
+<!-- <br>
+<br>
+
+----
+
+<br> -->
+
+
+<!-- <details> -->
+<!--   <summary>⚡ Recent GitHub Activity</summary> -->
+<!--   
+<!--START_SECTION:activity-->
+<!-- 1. ❗️ Opened issue [#176](https://github.com/yaronzz/Tidal-Media-Downloader-PRO/issues/176) in [yaronzz/Tidal-Media-Downloader-PRO](https://github.com/yaronzz/Tidal-Media-Downloader-PRO) -->
+<!-- 2. 💪 Opened PR [#7](https://github.com/lonewolf1084/hello/pull/7) in [lonewolf1084/hello](https://github.com/lonewolf1084/hello) -->
+<!-- 3. 💪 Opened PR [#6](https://github.com/lonewolf1084/hello/pull/6) in [lonewolf1084/hello](https://github.com/lonewolf1084/hello) -->
+<!-- 4. 💪 Opened PR [#5](https://github.com/lonewolf1084/hello/pull/5) in [lonewolf1084/hello](https://github.com/lonewolf1084/hello) -->
+<!--END_SECTION:activity-->
+
+  
+<!-- </details> -->
+
+<!-- <br>
+<br>
+
+----
+
+<br> -->
+
+<!-- <img src="https://i.ibb.co/0MZzJ2d/download.png" border="0"> -->
