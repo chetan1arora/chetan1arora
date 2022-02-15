@@ -44,14 +44,12 @@ const Chetan = {
         backEnd: {
             js: ["Node"],
             java: ["Spring Boot","Apache Camel"]
+            python:["Flask","Jinja2"]
         },
         devOps: ["AWS", "Docker🐳","DigitalOcean"],
-        databases: ["MongoDb", "Oracle", "Redis"],
-        misc: ["Socket.IO", "selenium", "open-cv", "php", "SuiteApp","discord.py"]
-    },
-    currentFocus: "Python",
-    fun: "Two bytes meet.  The first byte asks, 'Are you ill?'
-          The second byte replies, 'No, just feeling a bit off.'"
+        databases: ["MongoDB", "OracleDB", "Redis"],
+        misc: ["Socket.IO", "selenium", "open-cv", "php", "webhooks"]
+    }
 };
 ```
 <br>
