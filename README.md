@@ -48,7 +48,7 @@ const Chetan = {
         },
         devOps: ["AWS", "Docker🐳","DigitalOcean"],
         databases: ["MongoDB", "OracleDB", "Redis"],
-        misc: ["Socket.IO", "selenium", "open-cv", "php", "webhooks"]
+        misc: ["Golang","Socket.IO", "selenium", "open-cv", "php", "webhooks"]
     }
 };
 ```
@@ -86,7 +86,6 @@ const Chetan = {
 
 ### Backend  
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
@@ -96,6 +95,7 @@ const Chetan = {
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_kafka-icon.svg" alt="Kafka" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" />
 </div>
 
 </td><td valign="top" width="33%">
