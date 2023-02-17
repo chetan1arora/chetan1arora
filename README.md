@@ -24,10 +24,10 @@
 <br><br>
 ----
 
-## I'm a Full-Stack Developer!!
+## I'm a Backend Engineer!!
 
-- 🌱 I’m currently working at Payments team Citi.
-- 👯 Contributed to this beautiful product IMIAssist, which is now part of Cisco Webex suite
+- 🌱 I’m currently working at OLX Group.
+- 👯 Contributed to payments at Citibank.
 - ⚡ Proud Alumni of BITS PILANI 2020 batch
 <br>
 ----
@@ -38,69 +38,43 @@
 ```javascript
 const Chetan = {
     pronouns: "He" | "Him",
-    code: ["Java", "Python","Typescript","MySQL"],
-    askMeAbout: ["WebDev", "Tech", "ML/AI","Blockchain"],
+    code: ["Java", "Spring-Boot","Python","SQL"],
+    askMeAbout: ["WebDev", "APIDev", "Scalability/Concurrency", "Blockchain"],
     technologies: {
         backEnd: {
+            java: ["Spring Boot","PostgreSQL"]
             js: ["Node"],
-            java: ["Spring Boot","Apache Camel"]
             python:["Flask","Jinja2"]
         },
-        devOps: ["AWS", "Docker🐳","DigitalOcean"],
-        databases: ["MongoDB", "OracleDB", "Redis"],
-        misc: ["Golang","Socket.IO", "selenium", "open-cv", "php", "webhooks"]
+        devOps: ["Docker🐳", "Kubernetes", "AWS"],
+        databases: ["Postgres","MongoDB", "OracleDB"],
+        misc: ["Redis","Kafka","Unit testing"]
     }
 };
 ```
 <br>
 
 ----
-<!-- <br> -->
-
-<!-- ## Now Playing -->
-
-
-<!-- [![Spotify](https://novatorem-envoy-vc.vercel.app/api/spotify)](https://open.spotify.com/user/31ojwb23shspr6yxfudndihfrvae)
- -->
-<!-- ---- -->
-<!-- <br> -->
-
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr>  
 
-
-
-### Frontend  
-<div align="center">    
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/d3.png" alt="D3.js" height="50" />  
-</div>
-
-</td><td valign="top" width="33%">
-
-
+<td valign="top" width="60%">
 
 ### Backend  
-<div align="center">  
+<div align="center"> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_kafka-icon.svg" alt="Kafka" height="50" />
+
+
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_kafka-icon.svg" alt="Kafka" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" />
-</div>
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /> 
 
-</td><td valign="top" width="33%">
-
-
+</td><td valign="top" width="40%">
 
 ### DevOps  
 <div align="center">  
