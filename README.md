@@ -23,9 +23,10 @@
 
 ## I'm a Backend Engineer!!
 
-- 🌱 I’m currently working at OLX Group.
-- 👯 Contributed to payments at Citibank.
-- ⚡ Proud Alumni of BITS PILANI 2020 batch
+- 🌱 Currently, building Clari Revenue platform.
+- 🚙 Automated tasks in used-car trade flow at OLX Group.
+- 💳 Contributed to payments at Citibank.
+- 👯 Proud Alumni of BITS PILANI 2020 batch
 <br>
 ----
 <br>
